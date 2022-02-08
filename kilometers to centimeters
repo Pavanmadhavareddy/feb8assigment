@@ -1,0 +1,3 @@
+km=float(input("enter kilometers"))
+cm=100000*km
+print("%.2f km = %.2f cm" %(km, cm))
